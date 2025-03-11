@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/BotBridge-build-live/static/css/main.1e587e95.css",
+    "main.js": "/BotBridge-build-live/static/js/main.e213147d.js",
+    "static/media/pharmachy.jpg": "/BotBridge-build-live/static/media/pharmachy.76d62b5d22321c72d0a7.jpg",
+    "static/media/imege3.jpg": "/BotBridge-build-live/static/media/imege3.dea1d89bb28fb685a32c.jpg",
+    "static/media/intergrated.jpg": "/BotBridge-build-live/static/media/intergrated.5f1cfbe3494f4d5e146e.jpg",
+    "static/media/imege1.jpg": "/BotBridge-build-live/static/media/imege1.e6ae199d2539d3a62ea2.jpg",
+    "static/media/imege2.1.jpg": "/BotBridge-build-live/static/media/imege2.1.e28bcadd64c85eec70a4.jpg",
+    "static/media/bgimage.jpg": "/BotBridge-build-live/static/media/bgimage.bf47c3b18db67d5c5c39.jpg",
+    "static/media/bloodbank.jpg": "/BotBridge-build-live/static/media/bloodbank.7ae64958934d53d57043.jpg",
+    "static/media/About.jpg": "/BotBridge-build-live/static/media/About.254c1b438d8a2585e187.jpg",
+    "static/media/limisimage.png": "/BotBridge-build-live/static/media/limisimage.626b7a735b22d51b2a65.png",
+    "static/media/bootstrap-icons.woff?": "/BotBridge-build-live/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/customerpageimg.jpeg": "/BotBridge-build-live/static/media/customerpageimg.5f0ece662c5aadeb9a30.jpeg",
+    "static/media/Qaimage.png": "/BotBridge-build-live/static/media/Qaimage.e04acdb1c5ce1a61b690.png",
+    "static/media/Healthanaltics.avif": "/BotBridge-build-live/static/media/Healthanaltics.440df6ec9c2238d81973.avif",
+    "static/media/logo1.svg": "/BotBridge-build-live/static/media/logo1.0387075ce97a9df6d3ba940b65da3877.svg",
+    "static/media/bootstrap-icons.woff2?": "/BotBridge-build-live/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/limisimage1.jpeg": "/BotBridge-build-live/static/media/limisimage1.de3f171bf40522a2a9e1.jpeg",
+    "static/media/brochure2.png": "/BotBridge-build-live/static/media/brochure2.e50d950786419d3795ab.png",
+    "static/media/brochure1.png": "/BotBridge-build-live/static/media/brochure1.02ffd8ba18476e51c6a4.png",
+    "static/media/brochure3.jpeg": "/BotBridge-build-live/static/media/brochure3.3469156b41acca2bfb39.jpeg",
+    "static/media/ai.avif": "/BotBridge-build-live/static/media/ai.3b62211f1cfe6bba9d7f.avif",
+    "static/media/Lims.avif": "/BotBridge-build-live/static/media/Lims.958db4987918d9c9dfe4.avif",
+    "static/media/pratice.avif": "/BotBridge-build-live/static/media/pratice.f787537341a1da9f1d24.avif",
+    "static/media/Tele.avif": "/BotBridge-build-live/static/media/Tele.c4fca48cdd2f615c28e7.avif",
+    "static/media/quality.avif": "/BotBridge-build-live/static/media/quality.c2d1f510b6acac4c9177.avif",
+    "static/media/slick.svg": "/BotBridge-build-live/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/BotBridge-build-live/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/BotBridge-build-live/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/BotBridge-build-live/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/BotBridge-build-live/index.html",
+    "main.1e587e95.css.map": "/BotBridge-build-live/static/css/main.1e587e95.css.map",
+    "main.e213147d.js.map": "/BotBridge-build-live/static/js/main.e213147d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e587e95.css",
+    "static/js/main.e213147d.js"
+  ]
+}

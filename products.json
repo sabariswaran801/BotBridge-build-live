@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "expandedDesc": "An Intelligent Laboratory Information Management System, that provides complete control as well as flexibility to meet the ever changing business needs.  Built on Future proof technology that is Reliable & Scalable allowing customers to scale their business without worrying about IT.  A Robust security framework ensures Patient Data is 100 % secure & protected from vulnerabilities.  Supplemented with Intelligent Analytics LIMS enables data based decision making for running the business."
+    },
+    {
+      "id": 2,
+      "expandedDesc": "A Seamless application for ensuring 100 % accurate report every time for patients.  Schedule & Run QC as per business need, capture the QC results, calculate Mean/SD, Plot LJ Graph and Implement Westgard Rules."
+    },
+    {
+      "id": 3,
+      "expandedDesc": "Comprehensive Donor Registration with Pre-screening & Digital Cross Matching.  Manage blood stocks and store and retrieve based on need, consolidate blood orders and meet them on time. Seamless communication with 3rd party."
+    },
+    {
+      "id": 4,
+      "expandedDesc": "An Integrated Inventory ensures BOM for every test is captured.  Get deep insights on the actual usage.  Consolidate Purchase Requests and raise Purchase Order Just in Time.  Get Bird's Eye view of stock position across branches and move goods across branches based on usage/demand.  Monitor and purchase stocks according to movement and reduce cost.."
+    },
+    {
+      "id": 5,
+      "expandedDesc": "A Exhaustive PMS System right from scheduling to capturing patient history.  Manage Doctors Schedule and book patient appointments, capture Nurse Notes, physician notes, Integrated LIMS(Seamless order of Lab Tests), Integrated Inventory (Prescribe Medications from the store ), Route of Administration, Capture and retrieve Patient Medical History.  Securely Transfer Patient Records to other hospital in case of emergency.  A robust and secure Teleconsultation Module plug-in."
+    },
+    {
+      "id": 6,
+      "expandedDesc": "Intelligent Health Analytics sits on top of any LIMS  and extract data from any source/multiple sources and presents intuitive and actionable insights.  ."
+    },
+    {
+      "id": 7,
+      "expandedDesc": "Small Models built into the application that learns the data and understands commonly used terminologies(currently English Language) & provide assistance to physicians/Administrators/Operations."
+    },
+    {
+      "id": 8,
+      "expandedDesc": "Comprehensive Donor Registration with Pre-screening & Digital Cross Matching.  Manage blood stocks and store and retrieve based on need, consolidate blood orders and meet them on time. Seamless communication with 3rd party."
+    },
+    {
+      "id": 9,
+      "expandedDesc": "Comprehensive Donor Registration with Pre-screening & Digital Cross Matching.  Manage blood stocks and store and retrieve based on need, consolidate blood orders and meet them on time. Seamless communication with 3rd party."
+    }
+
+  ]
+  
