@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BotBridge-build-live/static/css/main.1e587e95.css",
-    "main.js": "/BotBridge-build-live/static/js/main.2108bb94.js",
+    "main.js": "/BotBridge-build-live/static/js/main.bc909f1f.js",
     "static/media/pharmachy.jpg": "/BotBridge-build-live/static/media/pharmachy.76d62b5d22321c72d0a7.jpg",
     "static/media/imege3.jpg": "/BotBridge-build-live/static/media/imege3.dea1d89bb28fb685a32c.jpg",
     "static/media/intergrated.jpg": "/BotBridge-build-live/static/media/intergrated.5f1cfbe3494f4d5e146e.jpg",
@@ -32,10 +32,10 @@
     "static/media/slick.woff": "/BotBridge-build-live/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/BotBridge-build-live/index.html",
     "main.1e587e95.css.map": "/BotBridge-build-live/static/css/main.1e587e95.css.map",
-    "main.2108bb94.js.map": "/BotBridge-build-live/static/js/main.2108bb94.js.map"
+    "main.bc909f1f.js.map": "/BotBridge-build-live/static/js/main.bc909f1f.js.map"
   },
   "entrypoints": [
     "static/css/main.1e587e95.css",
-    "static/js/main.2108bb94.js"
+    "static/js/main.bc909f1f.js"
   ]
 }
