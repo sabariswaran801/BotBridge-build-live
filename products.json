@@ -17,15 +17,15 @@
     },
     {
       "id": 5,
-      "expandedDesc": "A Exhaustive PMS System right from scheduling to capturing patient history.  Manage Doctors Schedule and book patient appointments, capture Nurse Notes, physician notes, Integrated LIMS(Seamless order of Lab Tests), Integrated Inventory (Prescribe Medications from the store ), Route of Administration, Capture and retrieve Patient Medical History.  Securely Transfer Patient Records to other hospital in case of emergency.  A robust and secure Teleconsultation Module plug-in."
+      "expandedDesc": "Schedule Patient Appointments, Manage Doctor's Calendar & manage patient's & doctor with ease.  A robust template based system allows Nurse's to capture Patient's Presenting Compliants & History for better treatment planning by Doctors.  An exhaustive speciality based template allows doctors to plan treatments and seamlessly order lab investigations & prescriptions for better compliance.  Patient Case Sheet is organized date wise for better follow through and can be shared to any treating doctors in case of emergency."
     },
     {
       "id": 6,
-      "expandedDesc": "Intelligent Health Analytics sits on top of any LIMS  and extract data from any source/multiple sources and presents intuitive and actionable insights.  ."
+      "expandedDesc": "Extract Data from any source any system, be it LIS, HIS using ETL tools and visualize these data in tools(Power BI) & take data based decisions. Seamless connectivity to any LIS/HIS System ensures necessary data is securely fetched and our Data Cleansing services ensures 'Single Source of Truth'. Data Visualizations helps to look into the past and future for better operational efficiency."
     },
     {
       "id": 7,
-      "expandedDesc": "Small Models built into the application that learns the data and understands commonly used terminologies(currently English Language) & provide assistance to physicians/Administrators/Operations."
+      "expandedDesc": "Digital Agents learns the patient's historic data and predicts patients prognosis for various treatment protocols and recommends to Doctors the best protocol. Doctors can alter the protocol and the local agent learns the changed protocol for future use. Digital Agents also learns the patients results from the local model and acts as a customer service tool providing the ability to communicate to Patients Next of Kin."
     },
     {
       "id": 8,
