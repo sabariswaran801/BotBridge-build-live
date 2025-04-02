@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BotBridge-build-live/static/css/main.2485ac87.css",
-    "main.js": "/BotBridge-build-live/static/js/main.85add00d.js",
+    "main.css": "/BotBridge-build-live/static/css/main.14ef2204.css",
+    "main.js": "/BotBridge-build-live/static/js/main.f6ab6d5d.js",
     "static/media/slide6image.jpg": "/BotBridge-build-live/static/media/slide6image.f84bfcffa17338841d3e.jpg",
     "static/media/pharmachy.jpg": "/BotBridge-build-live/static/media/pharmachy.76d62b5d22321c72d0a7.jpg",
     "static/media/About1.jpg": "/BotBridge-build-live/static/media/About1.3d099c210fafa0498fd6.jpg",
@@ -45,11 +45,11 @@
     "static/media/slick.ttf": "/BotBridge-build-live/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/BotBridge-build-live/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/BotBridge-build-live/index.html",
-    "main.2485ac87.css.map": "/BotBridge-build-live/static/css/main.2485ac87.css.map",
-    "main.85add00d.js.map": "/BotBridge-build-live/static/js/main.85add00d.js.map"
+    "main.14ef2204.css.map": "/BotBridge-build-live/static/css/main.14ef2204.css.map",
+    "main.f6ab6d5d.js.map": "/BotBridge-build-live/static/js/main.f6ab6d5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2485ac87.css",
-    "static/js/main.85add00d.js"
+    "static/css/main.14ef2204.css",
+    "static/js/main.f6ab6d5d.js"
   ]
 }
