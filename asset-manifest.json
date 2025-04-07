@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/BotBridge-build-live/static/css/main.14ef2204.css",
-    "main.js": "/BotBridge-build-live/static/js/main.58b216b4.js",
+    "main.css": "/BotBridge-build-live/static/css/main.df95fac6.css",
+    "main.js": "/BotBridge-build-live/static/js/main.c8dc9fa5.js",
     "static/media/slide6image.jpg": "/BotBridge-build-live/static/media/slide6image.f84bfcffa17338841d3e.jpg",
     "static/media/pharmachy.jpg": "/BotBridge-build-live/static/media/pharmachy.76d62b5d22321c72d0a7.jpg",
     "static/media/About1.jpg": "/BotBridge-build-live/static/media/About1.3d099c210fafa0498fd6.jpg",
     "static/media/slide2image.jpg": "/BotBridge-build-live/static/media/slide2image.aa0d4505bb0bc3ec33d4.jpg",
-    "static/media/slide5.1image.jpg": "/BotBridge-build-live/static/media/slide5.1image.416ede29404dc3f8f3de.jpg",
     "static/media/imege3.jpg": "/BotBridge-build-live/static/media/imege3.dea1d89bb28fb685a32c.jpg",
     "static/media/lab.jpg": "/BotBridge-build-live/static/media/lab.c6c9331b648788a057f7.jpg",
     "static/media/intergrated.jpg": "/BotBridge-build-live/static/media/intergrated.5f1cfbe3494f4d5e146e.jpg",
@@ -16,9 +15,11 @@
     "static/media/slide4.1image.jpg": "/BotBridge-build-live/static/media/slide4.1image.aa8439d972dc7270409b.jpg",
     "static/media/bgimage.jpg": "/BotBridge-build-live/static/media/bgimage.bf47c3b18db67d5c5c39.jpg",
     "static/media/lab1.jpg": "/BotBridge-build-live/static/media/lab1.b0f5abcfd34bec7c722d.jpg",
-    "static/media/bloodbank.jpg": "/BotBridge-build-live/static/media/bloodbank.7ae64958934d53d57043.jpg",
     "static/media/client2.png": "/BotBridge-build-live/static/media/client2.d32e507ea7e6508dff61.png",
     "static/media/map.gif": "/BotBridge-build-live/static/media/map.0b98a52d048d564a21a6.gif",
+    "static/media/Pratice1.jpeg": "/BotBridge-build-live/static/media/Pratice1.d1b1612bd16afa74db2f.jpeg",
+    "static/media/Hospital.jpeg": "/BotBridge-build-live/static/media/Hospital.c761aa2943addd48d81f.jpeg",
+    "static/media/slide5.2.jpeg": "/BotBridge-build-live/static/media/slide5.2.0367f54579c4c05983e4.jpeg",
     "static/media/bootstrap-icons.woff?": "/BotBridge-build-live/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/customerpageimg.jpeg": "/BotBridge-build-live/static/media/customerpageimg.5f0ece662c5aadeb9a30.jpeg",
     "static/media/Qaimage.png": "/BotBridge-build-live/static/media/Qaimage.e04acdb1c5ce1a61b690.png",
@@ -49,7 +50,6 @@
     "static/media/client17.png": "/BotBridge-build-live/static/media/client17.736cc0d4aff6ab8b8fe4.png",
     "static/media/bloodbank.avif": "/BotBridge-build-live/static/media/bloodbank.532ea26f7c662f5ed21c.avif",
     "static/media/qualitycontrrol.avif": "/BotBridge-build-live/static/media/qualitycontrrol.5b2ce5725d6102d18bb4.avif",
-    "static/media/pratice.avif": "/BotBridge-build-live/static/media/pratice.f787537341a1da9f1d24.avif",
     "static/media/quality.avif": "/BotBridge-build-live/static/media/quality.c2d1f510b6acac4c9177.avif",
     "static/media/client13.png": "/BotBridge-build-live/static/media/client13.ec6ccbad1290d9923b9c.png",
     "static/media/client16.png": "/BotBridge-build-live/static/media/client16.373655e5add191d688b1.png",
@@ -62,11 +62,11 @@
     "static/media/slick.ttf": "/BotBridge-build-live/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/BotBridge-build-live/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/BotBridge-build-live/index.html",
-    "main.14ef2204.css.map": "/BotBridge-build-live/static/css/main.14ef2204.css.map",
-    "main.58b216b4.js.map": "/BotBridge-build-live/static/js/main.58b216b4.js.map"
+    "main.df95fac6.css.map": "/BotBridge-build-live/static/css/main.df95fac6.css.map",
+    "main.c8dc9fa5.js.map": "/BotBridge-build-live/static/js/main.c8dc9fa5.js.map"
   },
   "entrypoints": [
-    "static/css/main.14ef2204.css",
-    "static/js/main.58b216b4.js"
+    "static/css/main.df95fac6.css",
+    "static/js/main.c8dc9fa5.js"
   ]
 }
